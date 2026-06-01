@@ -1,8 +1,8 @@
 const meriendas = [
     "Mate con facturas",
-    "Tostadas con dulce de leche",
-    "Medialunas con café con leche",
-    "Bizcochos con mate cocido",
+    "Té y tostadas con manteca",
+    "Café con medialunas",
+    "Mate cocido con bizcochitos",
     "Licuado de banana con leche"
 ];
 
